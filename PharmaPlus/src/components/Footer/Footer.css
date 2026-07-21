@@ -1,0 +1,14 @@
+.global-footer {
+  text-align: center;
+  padding: 20px;
+  background: #121212;
+  color: #10b981;
+  border-top: 1px solid #10b981;
+  font-size: 0.8rem;
+  margin-top: auto; 
+}
+
+.global-footer p {
+  margin: 0;
+  opacity: 0.8;
+}
